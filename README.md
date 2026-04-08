@@ -89,7 +89,7 @@ For full folder breakdown, see [docs/STRUCTURE.md](docs/STRUCTURE.md).
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-org>/splitchain.git
+git clone https://github.com/ChainOrganization/Splitter.git
 cd splitchain
 ```
 
