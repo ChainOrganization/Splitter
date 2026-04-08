@@ -46,7 +46,7 @@ There are many ways to contribute:
 ### 1. Fork and Clone
 
 ```bash
-git clone https://github.com/<your-username>/splitchain.git
+git clone https://github.com/ChainOrganization/Splitter.git
 cd splitchain
 ```
 
